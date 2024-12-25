@@ -1,0 +1,10 @@
+{
+  "name": "Saints Row IV - BGM",
+  "description": "Ambience heard in the HUB menu from Saints Row IV.",
+  "author": "Vlad Viper",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
