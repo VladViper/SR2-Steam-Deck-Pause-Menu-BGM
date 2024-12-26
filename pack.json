@@ -3,8 +3,7 @@
   "description": "Music heard in the pause menu from Saints Row 2.",
   "author": "Vlad Viper",
   "version": "v1.0",
-  "manifest_version": 2,
+  "manifest_version": 1,
   "music": true,
-  "ignore": [],
-  "mappings": {}
+  "ignore": []
 }
